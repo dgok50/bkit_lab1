@@ -1,0 +1,10 @@
+/home/dgok50/bkit/bkit_lab1_core/bin/Debug/netcoreapp2.0/bkit_lab1_core.deps.json
+/home/dgok50/bkit/bkit_lab1_core/bin/Debug/netcoreapp2.0/bkit_lab1_core.runtimeconfig.json
+/home/dgok50/bkit/bkit_lab1_core/bin/Debug/netcoreapp2.0/bkit_lab1_core.runtimeconfig.dev.json
+/home/dgok50/bkit/bkit_lab1_core/bin/Debug/netcoreapp2.0/bkit_lab1_core.dll
+/home/dgok50/bkit/bkit_lab1_core/bin/Debug/netcoreapp2.0/bkit_lab1_core.pdb
+/home/dgok50/bkit/bkit_lab1_core/obj/Debug/netcoreapp2.0/bkit_lab1_core.csproj.CoreCompileInputs.cache
+/home/dgok50/bkit/bkit_lab1_core/obj/Debug/netcoreapp2.0/bkit_lab1_core.AssemblyInfoInputs.cache
+/home/dgok50/bkit/bkit_lab1_core/obj/Debug/netcoreapp2.0/bkit_lab1_core.AssemblyInfo.cs
+/home/dgok50/bkit/bkit_lab1_core/obj/Debug/netcoreapp2.0/bkit_lab1_core.dll
+/home/dgok50/bkit/bkit_lab1_core/obj/Debug/netcoreapp2.0/bkit_lab1_core.pdb
