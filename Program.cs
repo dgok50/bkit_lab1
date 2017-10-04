@@ -7,22 +7,22 @@ using System.Threading.Tasks;
 namespace lab1
 {
     class Program
-    { 
- 
-            
+    {
+        
 
         static void Main(string[] args)
         {
             do
             {
+                double a=0, b=0, c=0;
                 Console.WriteLine("Введите первый коэффицент квадратного ур-я");
-                Program.try_read(out double a);
+                Program.try_read(ref a);
 
                 Console.WriteLine("Введите второй коэффицент квадратного ур-я");
-                Program.try_read(out double b);
+                Program.try_read(ref b);
 
                 Console.WriteLine("Введите третий коэффицент квадратного ур-я");
-                Program.try_read(out double c);
+                Program.try_read(ref c);
 
                 double x1, x2, D;
 
@@ -55,7 +55,7 @@ namespace lab1
                 return false;
         }
 
-        static void try_read(out double tmp)
+        static void try_read(ref double tmp)
         {
             bool error = false;
             tmp = -1;
